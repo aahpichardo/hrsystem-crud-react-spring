@@ -1,2 +1,2 @@
-# crud-react-spring
-Sistema de Recursos Humanos (CRUD) elaborado con React y Spring Boot
+# Human Resources System CRUD
+Made with React and Spring.
